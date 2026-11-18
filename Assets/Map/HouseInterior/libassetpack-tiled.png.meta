@@ -1,0 +1,844 @@
+fileFormatVersion: 2
+guid: 42a4f0fdbff58f34a989b932b23df823
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: libassetpack-tiled_0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 167
+        width: 43
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82cabc8355d8194791871247550ea29
+      internalID: -177804120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libassetpack-tiled_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 380
+        width: 70
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d28bef54e71294aa9e15449c839613
+      internalID: -758504090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libassetpack-tiled_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 164
+        width: 35
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ae604f68764c943a13b6c39c2a4599
+      internalID: 1149147510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libassetpack-tiled_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558bd84eca7ab4c4489c9e3230ae7662
+      internalID: 2133880378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libassetpack-tiled_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 380
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8765904bb8dbd3e4aaf75b3c64c1d097
+      internalID: -139684993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libassetpack-tiled_5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 429
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b39b41cc28da1419594e0d16ca4c4d
+      internalID: -1205074215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libassetpack-tiled_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 475
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed00c6b0ef038a04f81aba0cc08f3575
+      internalID: -1493517977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Carpet1
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 420
+        width: 177
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdca68cb4c065a42abe408ef2724a13
+      internalID: -1156423308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libassetpack-tiled_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 457
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43faa6e39c94b0f48845bb40f6313104
+      internalID: 1381111906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libassetpack-tiled_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 405
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ef296e17342824eab0cb40054bb139
+      internalID: -1483108803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_SofaChair1
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 429
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08844240103931140b942373b14df6c7
+      internalID: -413157118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_carpet1
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 344
+        width: 89
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a5119ba3ff2164b87dca0f72d15c4b
+      internalID: -785052224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Carpet
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 340
+        width: 132
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba46b042f83f834f95f3fd6d95d5327
+      internalID: 1465548195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Box
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 337
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37a6919650cda24190859863a1c5d8e
+      internalID: 1682035283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Box1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 337
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3408e2cf407b3d84182be0ce44e0a70b
+      internalID: -635852918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild-Lanton
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 358
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ec922c82377a343812759a83903cfe
+      internalID: 1332217640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_SofaChair2
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 359
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21999345598efd14daedc51770f9aaad
+      internalID: -352598847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_carpet2
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 178
+        width: 77
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c8527bd9b5cb74e82e5c9e3bf7259a
+      internalID: 2004932361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Earth
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 186
+        width: 110
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251e140b433d388428f1d8ef4b996389
+      internalID: -259656320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Table
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 215
+        width: 174
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1170ef235e3c9994092171b3dca07daf
+      internalID: -309730843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Sofa_Large
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 180
+        width: 205
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4667bcee4fb5cb47b77db8d41e7d975
+      internalID: 118824776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Bookshelf1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 15
+        width: 97
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223c0a388fba2e04484a75cb51f75d73
+      internalID: 1587174739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Bookshelf2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 18
+        width: 97
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9a0964ba632274b8016d68a217d71f
+      internalID: 364781037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_Bookshelf3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 20
+        width: 98
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d603e71c86aa0af42a25f260f61203b4
+      internalID: -1673390740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guild_2floor
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 18
+        width: 549
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547745da083488a459a90e80c011ed0a
+      internalID: 1132979124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libassetpack-tiled_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 453
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f62d0ff4a4c6844869181ca84fa98c
+      internalID: -1733930216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libassetpack-tiled_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 382
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9796c9353435c24790ca5b22a5d335d
+      internalID: -130516601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libassetpack-tiled_11
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 350
+        width: 90
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41207e54f7263d4ba64cc0bbc7919ed
+      internalID: 1241642508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Guild-Lanton: 1332217640
+      Guild_2floor: 1132979124
+      Guild_Bookshelf1: 1587174739
+      Guild_Bookshelf2: 364781037
+      Guild_Bookshelf3: -1673390740
+      Guild_Box: 1682035283
+      Guild_Box1: -635852918
+      Guild_Carpet: 1465548195
+      Guild_Carpet1: -1156423308
+      Guild_Earth: -259656320
+      Guild_SofaChair1: -413157118
+      Guild_SofaChair2: -352598847
+      Guild_Sofa_Large: 118824776
+      Guild_Table: -309730843
+      Guild_carpet1: -785052224
+      Guild_carpet2: 2004932361
+      libassetpack-tiled_0: -177804120
+      libassetpack-tiled_1: -758504090
+      libassetpack-tiled_10: -130516601
+      libassetpack-tiled_100: 1809743396
+      libassetpack-tiled_101: -507085081
+      libassetpack-tiled_102: -2071368162
+      libassetpack-tiled_103: -1234520824
+      libassetpack-tiled_104: 1793678064
+      libassetpack-tiled_105: -1445819767
+      libassetpack-tiled_106: -1016861008
+      libassetpack-tiled_107: 1134534002
+      libassetpack-tiled_108: 973551601
+      libassetpack-tiled_109: -1643598841
+      libassetpack-tiled_11: 1241642508
+      libassetpack-tiled_111: 511741482
+      libassetpack-tiled_113: -62674905
+      libassetpack-tiled_114: 780483145
+      libassetpack-tiled_115: 920128990
+      libassetpack-tiled_116: -1471652689
+      libassetpack-tiled_117: 1766156137
+      libassetpack-tiled_118: 1403422357
+      libassetpack-tiled_119: 1078059298
+      libassetpack-tiled_12: -581909136
+      libassetpack-tiled_120: -1795015268
+      libassetpack-tiled_121: 1357770806
+      libassetpack-tiled_122: -1740838106
+      libassetpack-tiled_123: 948566805
+      libassetpack-tiled_13: -1174469946
+      libassetpack-tiled_14: 1562190650
+      libassetpack-tiled_15: -1039257938
+      libassetpack-tiled_16: -1111025979
+      libassetpack-tiled_17: 2044950349
+      libassetpack-tiled_18: -980153786
+      libassetpack-tiled_19: -381559595
+      libassetpack-tiled_2: 1149147510
+      libassetpack-tiled_20: -1487603605
+      libassetpack-tiled_21: -206178216
+      libassetpack-tiled_22: -584217809
+      libassetpack-tiled_23: 2101320819
+      libassetpack-tiled_24: -491682740
+      libassetpack-tiled_25: -34361029
+      libassetpack-tiled_26: -616172449
+      libassetpack-tiled_27: 514553717
+      libassetpack-tiled_28: -1807643574
+      libassetpack-tiled_3: 2133880378
+      libassetpack-tiled_30: 185711513
+      libassetpack-tiled_31: 1828969228
+      libassetpack-tiled_32: 1483027896
+      libassetpack-tiled_33: -715094362
+      libassetpack-tiled_34: -1152290792
+      libassetpack-tiled_35: 2049936263
+      libassetpack-tiled_36: 1212827250
+      libassetpack-tiled_37: -1431592701
+      libassetpack-tiled_38: -463383298
+      libassetpack-tiled_39: 1213864316
+      libassetpack-tiled_4: -139684993
+      libassetpack-tiled_40: -1727460512
+      libassetpack-tiled_41: -1011440820
+      libassetpack-tiled_42: 230772358
+      libassetpack-tiled_43: 1040373050
+      libassetpack-tiled_45: -796687932
+      libassetpack-tiled_47: -258305192
+      libassetpack-tiled_48: 790319309
+      libassetpack-tiled_49: -532742299
+      libassetpack-tiled_5: -1205074215
+      libassetpack-tiled_50: -2018675469
+      libassetpack-tiled_51: -458246595
+      libassetpack-tiled_52: 2075673994
+      libassetpack-tiled_56: 918724164
+      libassetpack-tiled_57: -1617269247
+      libassetpack-tiled_58: 1903502659
+      libassetpack-tiled_59: 830672694
+      libassetpack-tiled_6: -1493517977
+      libassetpack-tiled_60: -71159013
+      libassetpack-tiled_61: -1620733097
+      libassetpack-tiled_62: 1679969096
+      libassetpack-tiled_63: 810222105
+      libassetpack-tiled_64: -968822
+      libassetpack-tiled_65: 387737201
+      libassetpack-tiled_66: 5070826
+      libassetpack-tiled_67: -521852010
+      libassetpack-tiled_69: -1385606251
+      libassetpack-tiled_7: -1733930216
+      libassetpack-tiled_70: -777875573
+      libassetpack-tiled_71: 985285109
+      libassetpack-tiled_72: 1535374080
+      libassetpack-tiled_73: 1800246388
+      libassetpack-tiled_75: 940596055
+      libassetpack-tiled_76: -588844427
+      libassetpack-tiled_77: 1195741014
+      libassetpack-tiled_78: 425594398
+      libassetpack-tiled_79: 201331674
+      libassetpack-tiled_8: 1381111906
+      libassetpack-tiled_80: -399974931
+      libassetpack-tiled_81: 1261951968
+      libassetpack-tiled_82: 2117434773
+      libassetpack-tiled_83: -294481478
+      libassetpack-tiled_84: 1270256031
+      libassetpack-tiled_85: 1096846436
+      libassetpack-tiled_86: -2139068845
+      libassetpack-tiled_87: -1603287798
+      libassetpack-tiled_88: -1839164431
+      libassetpack-tiled_89: -102024130
+      libassetpack-tiled_9: -1483108803
+      libassetpack-tiled_90: 396604134
+      libassetpack-tiled_91: -1842067900
+      libassetpack-tiled_92: -1649968127
+      libassetpack-tiled_93: 805604276
+      libassetpack-tiled_95: 2101012041
+      libassetpack-tiled_96: 660151145
+      libassetpack-tiled_97: 1485527352
+      libassetpack-tiled_98: 1385578510
+      libassetpack-tiled_99: 1475041629
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
